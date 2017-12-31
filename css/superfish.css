@@ -49,7 +49,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 .sf-menu>li.sfHover>a, .sf-menu>li.current>a, .sf-menu>li>a:hover {
 	color: #000;
-	background-color: #fdc903;}
+	background-color: #0073ef;}
 
 
 .sf-menu>li>a.sf-with-ul:after {

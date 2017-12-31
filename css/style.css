@@ -120,7 +120,7 @@ ul {
     height: 45px;
     margin-top: 4px;
     margin-right: 13px;
-    background-color: #fdc903;
+    background-color: #0073ef;
     font: 36px/44px 'Roboto Condensed', sans-serif;
 }
 
@@ -146,12 +146,12 @@ a {
 }
 
 a:hover {
-	color: #fdc903;
+	color: #0073ef;
 }
 
 .btn {
     display: inline-block;
-    background-color: #fdc903;
+    background-color: #0073ef;
     color: #fff;
     font-size: 14px;
     line-height: 20px;
@@ -284,8 +284,25 @@ header h1 a img {
     padding: 0 30px 24px 40px;
 }
 
+.banner2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #fff;
+    margin: 55px 0 87px;
+    overflow: hidden;
+    position: relative;
+    padding: 0 30px 24px 40px;
+}
 
 .banner_title {
+    overflow: hidden;
+    padding-top: 19px;
+    color: #2a2929;
+    font-size: 46px;
+    line-height: 48px;
+    margin-bottom: 9px;
+}
+
+.banner_title2 {
     overflow: hidden;
     padding-top: 19px;
     color: #2a2929;
@@ -322,7 +339,7 @@ header h1 a img {
     line-height: 24px;
     text-transform: uppercase;
     color: #fff;
-    background-color: #fdc903;
+    background-color: #0073ef;
 }
 
 .c_phone span {
@@ -456,7 +473,7 @@ header h1 a img {
 }
 
 a.gal {
-    background: url(../images/magnifier.png) center center no-repeat #fdc903;
+    background: url(../images/magnifier.png) center center no-repeat #0073ef;
     margin-right: 1px;
     margin-bottom: 27px;
     display: block;
@@ -496,7 +513,7 @@ a.gal:hover img {
 /**Map**/
 
 .color1 {
-    color: #fdc903;
+    color: #0073ef;
 }
 
 .color1 a:hover , a.color1:hover {
@@ -578,7 +595,7 @@ footer {
 
 .f_phone {
     padding-top: 72px;
-    font-size: 40px;
+    font-size: 24px;
     line-height: 36px;
     float: right;
     color: #e2e2e2;
@@ -603,7 +620,7 @@ footer {
     margin: 0 6px 0 7px;
     color: #fff;
     text-align: center;
-    background-color: #fdc903;
+    background-color: #0073ef;
     border-radius: 500px;
     width: 58px;
     height: 58px;
@@ -612,7 +629,7 @@ footer {
 }
 
 .socials a:hover {
-    color: #fdc903;
+    color: #0073ef;
     background-color: #585757;
 }
 

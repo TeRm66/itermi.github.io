@@ -265,22 +265,21 @@
 	text-align: right;
 }
 
-
-
 .caption {
 
 	position: absolute;
-	text-align: center;
+	text-align: left;
 	font-size: 24px;
 	line-height: 60px;
-	left: 0;
+	left: 10%;
 	right: 0;
-	top: 41%;
+	top: 80%;
 	color: #fff;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-o-box-sizing: border-box;
 	box-sizing: border-box;
+	
 }
 
 .caption .price span {
@@ -301,7 +300,7 @@
 
 	display: inline-block;
 	background-color: #7ecefd;
-	background: url(../images/capt_a.png) 0 0 repeat-x #c5302c;
+	background: url(../images/capt_a.png) 0 0 repeat-x #0073ef;
 
 }
 
